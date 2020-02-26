@@ -1,0 +1,11 @@
+c:\users\carlos.hoil\source\repos\Observer\Observer\bin\Debug\netcoreapp2.0\Observer.deps.json
+c:\users\carlos.hoil\source\repos\Observer\Observer\bin\Debug\netcoreapp2.0\Observer.runtimeconfig.json
+c:\users\carlos.hoil\source\repos\Observer\Observer\bin\Debug\netcoreapp2.0\Observer.runtimeconfig.dev.json
+c:\users\carlos.hoil\source\repos\Observer\Observer\bin\Debug\netcoreapp2.0\Observer.dll
+c:\users\carlos.hoil\source\repos\Observer\Observer\bin\Debug\netcoreapp2.0\Observer.pdb
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.csprojResolveAssemblyReference.cache
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.csproj.CoreCompileInputs.cache
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.AssemblyInfoInputs.cache
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.AssemblyInfo.cs
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.dll
+c:\users\carlos.hoil\source\repos\Observer\Observer\obj\Debug\netcoreapp2.0\Observer.pdb
